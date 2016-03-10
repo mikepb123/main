@@ -1,0 +1,987 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC One UK" tvg-name="BBC One UK" tvg-logo="http://rapidiptv.com/images/picons/bbcone.png" group-title="United Kingdom",BBC One UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3580.ts
+#EXTINF:-1 tvg-id="BBC One UK" tvg-name="BBC One HD UK" tvg-logo="http://rapidiptv.com/images/picons/bbconehd.png" group-title="United Kingdom",BBC One HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1993.ts
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two UK" tvg-logo="http://rapidiptv.com/images/picons/bbctwo.png" group-title="United Kingdom",BBC Two UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3581.ts
+#EXTINF:-1 tvg-id="BBC Two UK" tvg-name="BBC Two HD UK" tvg-logo="http://rapidiptv.com/images/picons/bbctwohd.png" group-title="United Kingdom",BBC Two HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1994.ts
+#EXTINF:-1 tvg-id="BBC Three UK" tvg-name="BBC Three HD UK" tvg-logo="http://rapidiptv.com/images/picons/bbcthree.png" group-title="United Kingdom",BBC Three HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1995.ts
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four UK / CBeebies UK" tvg-logo="http://rapidiptv.com/images/picons/bbcfour.png" group-title="United Kingdom",BBC Four UK / CBeebies UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3582.ts
+#EXTINF:-1 tvg-id="BBC Four UK" tvg-name="BBC Four HD UK" tvg-logo="http://rapidiptv.com/images/picons/bbcfourhd.png" group-title="United Kingdom",BBC Four HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1996.ts
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-logo="http://rapidiptv.com/images/picons/bbcnews.png" group-title="United Kingdom",BBC News UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4020.ts
+#EXTINF:-1 tvg-id="ITV1 UK" tvg-name="ITV 1 UK" tvg-logo="http://rapidiptv.com/images/picons/itv.png" group-title="United Kingdom",ITV 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3576.ts
+#EXTINF:-1 tvg-id="ITV2 UK" tvg-name="ITV 2 UK" tvg-logo="http://rapidiptv.com/images/picons/itv2.png" group-title="United Kingdom",ITV 2 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3577.ts
+#EXTINF:-1 tvg-id="ITV3 UK" tvg-name="ITV 3 UK" tvg-logo="http://rapidiptv.com/images/picons/itv3.png" group-title="United Kingdom",ITV 3 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3578.ts
+#EXTINF:-1 tvg-id="ITV4 UK" tvg-name="ITV 4 UK" tvg-logo="http://rapidiptv.com/images/picons/itv4.png" group-title="United Kingdom",ITV 4 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3579.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV Encore UK" tvg-logo="http://rapidiptv.com/images/picons/itvencore.png" group-title="United Kingdom",ITV Encore UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8076.ts
+#EXTINF:-1 tvg-id="" tvg-name="ITV BE UK" tvg-logo="" group-title="United Kingdom",ITV BE UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9587.ts
+#EXTINF:-1 tvg-id="Channel 4 UK" tvg-name="Channel 4 UK" tvg-logo="http://rapidiptv.com/images/picons/channel4uk.png" group-title="United Kingdom",Channel 4 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2681.ts
+#EXTINF:-1 tvg-id="Channel 5 UK" tvg-name="Channel 5 UK" tvg-logo="http://rapidiptv.com/images/picons/channel5uk.png" group-title="United Kingdom",Channel 5 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2680.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5 + 1 UK" tvg-logo="" group-title="United Kingdom",CHANNEL 5 + 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9905.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 5 + 24 UK" tvg-logo="" group-title="United Kingdom",CHANNEL 5 + 24 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9901.ts
+#EXTINF:-1 tvg-id="Cartoon Network UK" tvg-name="Cartoon Network UK" tvg-logo="http://rapidiptv.com/images/picons/cartoonnetwork.png" group-title="United Kingdom",Cartoon Network UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3967.ts
+#EXTINF:-1 tvg-id="CBS Action UK" tvg-name="CBS Action UK" tvg-logo="http://rapidiptv.com/images/picons/cbsaction.png" group-title="United Kingdom",CBS Action UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3944.ts
+#EXTINF:-1 tvg-id="CBS Drama UK" tvg-name="CBS Drama UK" tvg-logo="http://rapidiptv.com/images/picons/cbsdrama.png" group-title="United Kingdom",CBS Drama UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3945.ts
+#EXTINF:-1 tvg-id="CBS Reality UK" tvg-name="CBS Reality UK" tvg-logo="http://rapidiptv.com/images/picons/cbsreality.png" group-title="United Kingdom",CBS Reality UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3946.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPIKE UK" tvg-logo="" group-title="United Kingdom",SPIKE UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9898.ts
+#EXTINF:-1 tvg-id="" tvg-name="5 USA UK" tvg-logo="" group-title="United Kingdom",5 USA UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9907.ts
+#EXTINF:-1 tvg-id="" tvg-name="5 USA+1 UK" tvg-logo="" group-title="United Kingdom",5 USA+1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9899.ts
+#EXTINF:-1 tvg-id="5* UK" tvg-name="5 STAR UK" tvg-logo="" group-title="United Kingdom",5 STAR UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9908.ts
+#EXTINF:-1 tvg-id="" tvg-name="5 STAR + 1 UK" tvg-logo="" group-title="United Kingdom",5 STAR + 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors UK" tvg-logo="http://rapidiptv.com/images/picons/colors.png" group-title="United Kingdom",Colors UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1988.ts
+#EXTINF:-1 tvg-id="" tvg-name="3E UK" tvg-logo="http://rapidiptv.com/images/picons/3e.png" group-title="United Kingdom",3E UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3953.ts
+#EXTINF:-1 tvg-id="4seven UK" tvg-name="4Seven UK" tvg-logo="http://rapidiptv.com/images/picons/4seven.png" group-title="United Kingdom",4Seven UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3961.ts
+#EXTINF:-1 tvg-id="Alibi UK" tvg-name="Alibi UK" tvg-logo="http://rapidiptv.com/images/picons/alibi.png" group-title="United Kingdom",Alibi UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3954.ts
+#EXTINF:-1 tvg-id="Watch UK" tvg-name="Watch UK" tvg-logo="http://rapidiptv.com/images/picons/watch.png" group-title="United Kingdom",Watch UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4014.ts
+#EXTINF:-1 tvg-id="Yesterday UK" tvg-name="Yesterday UK" tvg-logo="http://rapidiptv.com/images/picons/yesterday.png" group-title="United Kingdom",Yesterday UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3962.ts
+#EXTINF:-1 tvg-id="Comedy Central UK" tvg-name="Comedy Central UK" tvg-logo="http://rapidiptv.com/images/picons/comedycentral.png" group-title="United Kingdom",Comedy Central UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3948.ts
+#EXTINF:-1 tvg-id="Comedy Central Extra UK" tvg-name="Comedy Central Extra UK" tvg-logo="http://rapidiptv.com/images/picons/comedycentralextra.png" group-title="United Kingdom",Comedy Central Extra UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2668.ts
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN UK" tvg-logo="http://rapidiptv.com/images/picons/cnn.png" group-title="United Kingdom",CNN UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3995.ts
+#EXTINF:-1 tvg-id="Dave UK" tvg-name="Dave UK" tvg-logo="http://rapidiptv.com/images/picons/dave.png" group-title="United Kingdom",Dave UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1987.ts
+#EXTINF:-1 tvg-id="Discovery Channel UK" tvg-name="Discovery Channel UK" tvg-logo="http://rapidiptv.com/images/picons/discoverychannel.png" group-title="United Kingdom",Discovery Channel UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1986.ts
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://rapidiptv.com/images/picons/discoveryhistory.png" group-title="United Kingdom",Discovery History UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1985.ts
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Discovery Investigation UK" tvg-logo="http://rapidiptv.com/images/picons/discoveryinvestigation.png" group-title="United Kingdom",Discovery Investigation UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3982.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://rapidiptv.com/images/picons/discoveryscience.png" group-title="United Kingdom",Discovery Science UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2679.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science HD UK" tvg-logo="http://rapidiptv.com/images/picons/discoverysciencehd.png" group-title="United Kingdom",Discovery Science HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4069.ts
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://rapidiptv.com/images/picons/discoveryturbo.png" group-title="United Kingdom",Discovery Turbo UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3978.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World UK" tvg-logo="http://rapidiptv.com/images/picons/discoveryworld.png" group-title="United Kingdom",Discovery World UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2678.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="Nat Geo Wild UK" tvg-logo="http://rapidiptv.com/images/picons/natgeowild.png" group-title="United Kingdom",Nat Geo Wild UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1968.ts
+#EXTINF:-1 tvg-id="National Geographic Channel UK" tvg-name="National Geographic Channel UK" tvg-logo="http://rapidiptv.com/images/picons/nationalgeographicchannel.png" group-title="United Kingdom",National Geographic Channel UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3561.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://rapidiptv.com/images/picons/animalplanet.png" group-title="United Kingdom",Animal Planet UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2683.ts
+#EXTINF:-1 tvg-id="Syfy UK" tvg-name="SyFy UK" tvg-logo="http://rapidiptv.com/images/picons/syfy.png" group-title="United Kingdom",SyFy UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3939.ts
+#EXTINF:-1 tvg-id="" tvg-name="Really UK" tvg-logo="http://rapidiptv.com/images/picons/really.png" group-title="United Kingdom",Really UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3947.ts
+#EXTINF:-1 tvg-id="RTE One UK" tvg-name="RTE One HD UK" tvg-logo="http://rapidiptv.com/images/picons/rteone.png" group-title="United Kingdom",RTE One HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1966.ts
+#EXTINF:-1 tvg-id="RTE Two UK" tvg-name="RTE Two HD UK" tvg-logo="http://rapidiptv.com/images/picons/rte2.png" group-title="United Kingdom",RTE Two HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1967.ts
+#EXTINF:-1 tvg-id="Sky 1 UK" tvg-name="Sky 1 UK" tvg-logo="http://rapidiptv.com/images/picons/sky1.png" group-title="United Kingdom",Sky 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3571.ts
+#EXTINF:-1 tvg-id="Sky 2 UK" tvg-name="Sky 2 UK" tvg-logo="http://rapidiptv.com/images/picons/sky2.png" group-title="United Kingdom",Sky 2 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Arts 1 UK" tvg-logo="http://rapidiptv.com/images/picons/skyarts1.png" group-title="United Kingdom",Sky Arts 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1963.ts
+#EXTINF:-1 tvg-id="Sky Atlantic UK" tvg-name="Sky Atlantic UK" tvg-logo="http://rapidiptv.com/images/picons/skyatlantic.png" group-title="United Kingdom",Sky Atlantic UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3562.ts
+#EXTINF:-1 tvg-id="Sky Living UK" tvg-name="Sky Living UK" tvg-logo="http://rapidiptv.com/images/picons/skyliving.png" group-title="United Kingdom",Sky Living UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3567.ts
+#EXTINF:-1 tvg-id="Motors TV UK" tvg-name="Mototrs TV UK" tvg-logo="http://rapidiptv.com/images/picons/motorstv.png" group-title="United Kingdom",Mototrs TV UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4009.ts
+#EXTINF:-1 tvg-id="More4 UK" tvg-name="More4 UK" tvg-logo="http://rapidiptv.com/images/picons/more4.png" group-title="United Kingdom",More4 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4000.ts
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://rapidiptv.com/images/picons/dmax.png" group-title="United Kingdom",DMAX UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1983.ts
+#EXTINF:-1 tvg-id="" tvg-name="Drama UK" tvg-logo="http://rapidiptv.com/images/picons/drama.png" group-title="United Kingdom",Drama UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3957.ts
+#EXTINF:-1 tvg-id="E! UK" tvg-name="E! UK" tvg-logo="http://rapidiptv.com/images/picons/e.png" group-title="United Kingdom",E! UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3966.ts
+#EXTINF:-1 tvg-id="E4 UK" tvg-name="E4 UK" tvg-logo="http://rapidiptv.com/images/picons/e4.png" group-title="United Kingdom",E4 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2674.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network UK" tvg-logo="http://rapidiptv.com/images/picons/foodnetworkuk.png" group-title="United Kingdom",Food Network UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3991.ts
+#EXTINF:-1 tvg-id="FOX UK" tvg-name="FOX UK" tvg-logo="http://rapidiptv.com/images/picons/fox.png" group-title="United Kingdom",FOX UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2656.ts
+#EXTINF:-1 tvg-id="Gold UK" tvg-name="Gold UK" tvg-logo="http://rapidiptv.com/images/picons/gold.png" group-title="United Kingdom",Gold UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1977.ts
+#EXTINF:-1 tvg-id="" tvg-name="Good Food UK" tvg-logo="http://rapidiptv.com/images/picons/goodfood.png" group-title="United Kingdom",Good Food UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3990.ts
+#EXTINF:-1 tvg-id="H2 UK" tvg-name="H2 UK" tvg-logo="http://rapidiptv.com/images/picons/h2.png" group-title="United Kingdom",H2 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home UK" tvg-logo="http://rapidiptv.com/images/picons/home.png" group-title="United Kingdom",Home UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3993.ts
+#EXTINF:-1 tvg-id="Pick UK" tvg-name="Pick UK" tvg-logo="http://rapidiptv.com/images/picons/pick.png" group-title="United Kingdom",Pick UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3958.ts
+#EXTINF:-1 tvg-id="" tvg-name="Quest UK" tvg-logo="http://rapidiptv.com/images/picons/quest.png" group-title="United Kingdom",Quest UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3959.ts
+#EXTINF:-1 tvg-id="TLC UK" tvg-name="TLC UK" tvg-logo="http://rapidiptv.com/images/picons/tlc.png" group-title="United Kingdom",TLC UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4027.ts
+#EXTINF:-1 tvg-id="" tvg-name="TG4 UK" tvg-logo="http://rapidiptv.com/images/picons/tg4.png" group-title="United Kingdom",TG4 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4005.ts
+#EXTINF:-1 tvg-id="Bloomberg" tvg-name="Bloomberg UK" tvg-logo="http://rapidiptv.com/images/picons/bloomberg.png" group-title="United Kingdom",Bloomberg UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8298.ts
+#EXTINF:-1 tvg-id="Boomerang UK" tvg-name="Boomerang UK" tvg-logo="http://rapidiptv.com/images/picons/boomerang.png" group-title="United Kingdom",Boomerang UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1962.ts
+#EXTINF:-1 tvg-id="" tvg-name="CITV UK" tvg-logo="" group-title="United Kingdom",CITV UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9588.ts
+#EXTINF:-1 tvg-id="Disney Channel UK" tvg-name="Disney Channel UK" tvg-logo="http://rapidiptv.com/images/picons/disneychannel.png" group-title="United Kingdom",Disney Channel UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1984.ts
+#EXTINF:-1 tvg-id="Disney Jr. UK" tvg-name="Disney Junior UK" tvg-logo="http://rapidiptv.com/images/picons/disneyjunior.png" group-title="United Kingdom",Disney Junior UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3969.ts
+#EXTINF:-1 tvg-id="Disney XD UK" tvg-name="Disney XD UK" tvg-logo="http://rapidiptv.com/images/picons/disneyxd.png" group-title="United Kingdom",Disney XD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2675.ts
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. UK" tvg-logo="http://rapidiptv.com/images/picons/nickjr.png" group-title="United Kingdom",Nick Jr. UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2669.ts
+#EXTINF:-1 tvg-id="Nick Jr. UK" tvg-name="Nick Jr. UK" tvg-logo="http://rapidiptv.com/images/picons/nickjr.png" group-title="United Kingdom",Nick Jr. UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tiny Pop UK" tvg-logo="http://rapidiptv.com/images/picons/tinypop.png" group-title="United Kingdom",Tiny Pop UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3976.ts
+#EXTINF:-1 tvg-id="Sky Movies Disney UK" tvg-name="Sky Movies Disney UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesdisney.png" group-title="United Kingdom",Sky Movies Disney UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3564.ts
+#EXTINF:-1 tvg-id="Sky Movies Disney UK" tvg-name="Sky Movies Disney HD UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesdisney.png" group-title="United Kingdom",Sky Movies Disney HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3927.ts
+#EXTINF:-1 tvg-id="Sky Movies Action & Adventure UK" tvg-name="Sky Movies Action & Adventure UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesactionadventure.png" group-title="United Kingdom",Sky Movies Action & Adventure UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3559.ts
+#EXTINF:-1 tvg-id="Sky Movies Action & Adventure UK" tvg-name="Sky Movies Action & Adventure HD UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesactionadventurehd.png" group-title="United Kingdom",Sky Movies Action & Adventure HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1961.ts
+#EXTINF:-1 tvg-id="Sky Movies Comedy UK" tvg-name="Sky Movies Comedy UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviescomedy.png" group-title="United Kingdom",Sky Movies Comedy UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3563.ts
+#EXTINF:-1 tvg-id="Sky Movies Crime & Thriller UK" tvg-name="Sky Movies Crime & Thriller UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviescrimethriller.png" group-title="United Kingdom",Sky Movies Crime & Thriller UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3575.ts
+#EXTINF:-1 tvg-id="Sky Movies Crime & Thriller UK" tvg-name="Sky Movies Crime & Thriller HD UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviescrimethrillerhd.png" group-title="United Kingdom",Sky Movies Crime & Thriller HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1955.ts
+#EXTINF:-1 tvg-id="Sky Movies Drama & Romance UK" tvg-name="Sky Movies Drama & Romance UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesdramaromance.png" group-title="United Kingdom",Sky Movies Drama & Romance UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3565.ts
+#EXTINF:-1 tvg-id="Sky Movies Drama & Romance UK" tvg-name="Sky Movies Drama & Romance HD UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesdramaromancehd.png" group-title="United Kingdom",Sky Movies Drama & Romance HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1960.ts
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Movies Family UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesfamily.png" group-title="United Kingdom",Sky Movies Family UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3566.ts
+#EXTINF:-1 tvg-id="Sky Movies Family UK" tvg-name="Sky Movies Family HD UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesfamilyhd.png" group-title="United Kingdom",Sky Movies Family HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3926.ts
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-name="Sky Movies Greats UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesgreats.png" group-title="United Kingdom",Sky Movies Greats UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1959.ts
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-name="Sky Movies Greats HD UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesgreatshd.png" group-title="United Kingdom",Sky Movies Greats HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3925.ts
+#EXTINF:-1 tvg-id="Sky Movies Premiere UK" tvg-name="Sky Movies Premiere HD UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviespremierehd.png" group-title="United Kingdom",Sky Movies Premiere HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1958.ts
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror UK" tvg-name="Sky Movies Sci-Fi & Horror UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesscifihorror.png" group-title="United Kingdom",Sky Movies Sci-Fi & Horror UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3574.ts
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi & Horror UK" tvg-name="Sky Movies Sci-Fi & Horror HD UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesscifihorrorhd.png" group-title="United Kingdom",Sky Movies Sci-Fi & Horror HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1957.ts
+#EXTINF:-1 tvg-id="Sky Movies Showcase UK" tvg-name="Sky Movies Showcase UK" tvg-logo="http://rapidiptv.com/images/picons/skymoviesshowcase.png" group-title="United Kingdom",Sky Movies Showcase UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3923.ts
+#EXTINF:-1 tvg-id="Film4 UK" tvg-name="Film4 UK" tvg-logo="http://rapidiptv.com/images/picons/film4.png" group-title="United Kingdom",Film4 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1979.ts
+#EXTINF:-1 tvg-id="Horror Channel UK" tvg-name="Horror Channel UK" tvg-logo="http://rapidiptv.com/images/picons/horrorchannel.png" group-title="United Kingdom",Horror Channel UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3941.ts
+#EXTINF:-1 tvg-id="Movies4Men UK" tvg-name="Movies4Men UK" tvg-logo="http://rapidiptv.com/images/picons/movies4men.png" group-title="United Kingdom",Movies4Men UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1971.ts
+#EXTINF:-1 tvg-id="" tvg-name="True Movies 2 UK" tvg-logo="http://rapidiptv.com/images/picons/truemovies2.png" group-title="United Kingdom",True Movies 2 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2662.ts
+#EXTINF:-1 tvg-id="" tvg-name="True Movies 1 UK" tvg-logo="http://rapidiptv.com/images/picons/truemovies1.png" group-title="United Kingdom",True Movies 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2661.ts
+#EXTINF:-1 tvg-id="MTV Music UK" tvg-name="MTV Music UK" tvg-logo="http://rapidiptv.com/images/picons/mtvmusic.png" group-title="United Kingdom",MTV Music UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2670.ts
+#EXTINF:-1 tvg-id="VH1 Classic" tvg-name="VH1 Classic UK" tvg-logo="http://rapidiptv.com/images/picons/vh1classic.png" group-title="United Kingdom",VH1 Classic UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3943.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vivo 1 UK" tvg-logo="http://rapidiptv.com/images/picons/vivo.png" group-title="United Kingdom",Vivo 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vivo 2 UK" tvg-logo="http://rapidiptv.com/images/picons/vivo.png" group-title="United Kingdom",Vivo 2 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vivo 3 UK" tvg-logo="http://rapidiptv.com/images/picons/vivo.png" group-title="United Kingdom",Vivo 3 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1953.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports 1 UK" tvg-logo="http://rapidiptv.com/images/picons/skysports1.png" group-title="United Kingdom",Sky Sports 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3593.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports 1 HD UK" tvg-logo="http://rapidiptv.com/images/picons/skysports1hd.png" group-title="United Kingdom",Sky Sports 1 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5600.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports 2 UK" tvg-logo="http://rapidiptv.com/images/picons/skysports2.png" group-title="United Kingdom",Sky Sports 2 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3595.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports 2 HD UK" tvg-logo="http://rapidiptv.com/images/picons/skysports2hd.png" group-title="United Kingdom",Sky Sports 2 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5601.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports 3 UK" tvg-logo="http://rapidiptv.com/images/picons/skysports3.png" group-title="United Kingdom",Sky Sports 3 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3597.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports 3 HD UK" tvg-logo="http://rapidiptv.com/images/picons/skysports3hd.png" group-title="United Kingdom",Sky Sports 3 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3598.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports 4 UK" tvg-logo="http://rapidiptv.com/images/picons/skysports4.png" group-title="United Kingdom",Sky Sports 4 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3599.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports 4 HD UK" tvg-logo="http://rapidiptv.com/images/picons/skysports4hd.png" group-title="United Kingdom",Sky Sports 4 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3600.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports 5 UK" tvg-logo="http://rapidiptv.com/images/picons/skysports5.png" group-title="United Kingdom",Sky Sports 5 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3601.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports 5 HD UK" tvg-logo="http://rapidiptv.com/images/picons/skysports5.png" group-title="United Kingdom",Sky Sports 5 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4458.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Box Office UK" tvg-logo="http://rapidiptv.com/images/picons/skysportsboxoffice.png" group-title="United Kingdom",Sky Sports Box Office UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2684.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 UK" tvg-logo="http://rapidiptv.com/images/picons/skysportsf1.png" group-title="United Kingdom",Sky Sports F1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3602.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://rapidiptv.com/images/picons/skysportsf1hd.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3603.ts
+#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News HD UK" tvg-logo="http://rapidiptv.com/images/picons/skysportsnewshqhd.png" group-title="United Kingdom",Sky Sports News HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1954.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 UK" tvg-logo="http://rapidiptv.com/images/picons/btsport1.png" group-title="United Kingdom",BT Sport 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3586.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 UK" tvg-logo="http://rapidiptv.com/images/picons/btsport2.png" group-title="United Kingdom",BT Sport 2 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3588.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 HD UK" tvg-logo="http://rapidiptv.com/images/picons/btsport1hd.png" group-title="United Kingdom",BT Sport 1 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1991.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 HD UK" tvg-logo="http://rapidiptv.com/images/picons/btsport2hd.png" group-title="United Kingdom",BT Sport 2 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1992.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport EUROPE UK" tvg-logo="http://rapidiptv.com/images/picons/btsporteurope.png" group-title="United Kingdom",BT Sport EUROPE UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1965.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport EXTRA UK" tvg-logo="http://rapidiptv.com/images/picons/btsportextra.png" group-title="United Kingdom",BT Sport EXTRA UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2682.ts
+#EXTINF:-1 tvg-id="At The Races UK" tvg-name="At The Races UK" tvg-logo="http://rapidiptv.com/images/picons/attheraces.png" group-title="United Kingdom",At The Races UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1997.ts
+#EXTINF:-1 tvg-id="Racing UK" tvg-name="Racing UK" tvg-logo="http://rapidiptv.com/images/picons/racinguk.png" group-title="United Kingdom",Racing UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3585.ts
+#EXTINF:-1 tvg-id="ESPN UK" tvg-name="ESPN UK" tvg-logo="http://rapidiptv.com/images/picons/espn.png" group-title="United Kingdom",ESPN UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2673.ts
+#EXTINF:-1 tvg-id="Setanta Sports 1 UK" tvg-name="Setanta Sports UK" tvg-logo="http://rapidiptv.com/images/picons/setantasports.png" group-title="United Kingdom",Setanta Sports UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3583.ts
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 UK" tvg-logo="http://rapidiptv.com/images/picons/eurosport1hd.png" group-title="United Kingdom",Eurosport 1 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3590.ts
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 HD UK" tvg-logo="http://rapidiptv.com/images/picons/eurosport1hd.png" group-title="United Kingdom",Eurosport 1 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1980.ts
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 UK" tvg-logo="http://rapidiptv.com/images/picons/eurosport2hd.png" group-title="United Kingdom",Eurosport 2 UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3591.ts
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 HD UK" tvg-logo="http://rapidiptv.com/images/picons/eurosport2hd.png" group-title="United Kingdom",Eurosport 2 HD UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/1981.ts
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports UK" tvg-logo="http://rapidiptv.com/images/picons/premiersports.png" group-title="United Kingdom",Premier Sports UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3584.ts
+#EXTINF:-1 tvg-id="Liverpool TV UK" tvg-name="Liverpool TV UK" tvg-logo="http://rapidiptv.com/images/picons/liverpool.png" group-title="United Kingdom",Liverpool TV UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3568.ts
+#EXTINF:-1 tvg-id="Manchester United UK" tvg-name="MUTV UK" tvg-logo="http://rapidiptv.com/images/picons/mutv.png" group-title="United Kingdom",MUTV UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2655.ts
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-logo="http://rapidiptv.com/images/picons/skynews.png" group-title="United Kingdom",Sky News UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3570.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Good Food" tvg-logo="" group-title="VIP UK",VIP: UK Good Food
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7385.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK ViVa UK" tvg-logo="" group-title="VIP UK",VIP: UK ViVa UK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7322.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK VH1" tvg-logo="" group-title="VIP UK",VIP: UK VH1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7323.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Nickelodeon" tvg-logo="" group-title="VIP UK",VIP: UK Nickelodeon
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7290.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK NickToo" tvg-logo="" group-title="VIP UK",VIP: UK NickToo
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7292.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Nick JR" tvg-logo="" group-title="VIP UK",VIP: UK Nick JR
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7295.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MTV Classic" tvg-logo="" group-title="VIP UK",VIP: UK MTV Classic
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7320.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Movies24" tvg-logo="" group-title="VIP UK",VIP: UK Movies24
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7314.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MTV Rocks" tvg-logo="" group-title="VIP UK",VIP: UK MTV Rocks
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7315.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MTV Music" tvg-logo="" group-title="VIP UK",VIP: UK MTV Music
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7316.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MTV Hits" tvg-logo="" group-title="VIP UK",VIP: UK MTV Hits
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7317.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MTV Dance" tvg-logo="" group-title="VIP UK",VIP: UK MTV Dance
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7318.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MTV Base" tvg-logo="" group-title="VIP UK",VIP: UK MTV Base
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7319.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MTV 1" tvg-logo="" group-title="VIP UK",VIP: UK MTV 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7321.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Disney XD" tvg-logo="" group-title="VIP UK",VIP: UK Disney XD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7298.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Disney Junior" tvg-logo="" group-title="VIP UK",VIP: UK Disney Junior
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7300.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Disney Channel" tvg-logo="" group-title="VIP UK",VIP: UK Disney Channel
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7302.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Discovery Turbo" tvg-logo="" group-title="VIP UK",VIP: UK Discovery Turbo
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7303.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Discovery Shed" tvg-logo="" group-title="VIP UK",VIP: UK Discovery Shed
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7304.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Discovery Science" tvg-logo="" group-title="VIP UK",VIP: UK Discovery Science
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7306.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Discovery Investigation" tvg-logo="" group-title="VIP UK",VIP: UK Discovery Investigation
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7307.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Discovery Home & Health" tvg-logo="" group-title="VIP UK",VIP: UK Discovery Home & Health
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7308.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Discovery History" tvg-logo="" group-title="VIP UK",VIP: UK Discovery History
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7310.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Discovery" tvg-logo="" group-title="VIP UK",VIP: UK Discovery
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7312.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Crime & Investigiation" tvg-logo="" group-title="VIP UK",VIP: UK Crime & Investigiation
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7313.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US SPACE" tvg-logo="" group-title="VIP US",VIP: US SPACE
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9085.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US VIP: USA Networkk" tvg-logo="" group-title="VIP US",VIP: US VIP: USA Networkk
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9081.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US TBS HD" tvg-logo="" group-title="VIP US",VIP: US TBS HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9084.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US PBS Vermont" tvg-logo="" group-title="VIP US",VIP: US PBS Vermont
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9080.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US Fox5" tvg-logo="" group-title="VIP US",VIP: US Fox5
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9076.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US CW" tvg-logo="" group-title="VIP US",VIP: US CW
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9077.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US CTV" tvg-logo="" group-title="VIP US",VIP: US CTV
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9078.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US CNBC" tvg-logo="" group-title="VIP US",VIP: US CNBC
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9028.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US CNN" tvg-logo="" group-title="VIP US",VIP: US CNN
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9029.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US POCKER CENTRAL" tvg-logo="" group-title="VIP US",VIP: US POCKER CENTRAL
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9011.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US NICK" tvg-logo="" group-title="VIP US",VIP: US NICK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9012.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US NBC" tvg-logo="" group-title="VIP US",VIP: US NBC
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9009.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US NBA" tvg-logo="" group-title="VIP US",VIP: US NBA
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9010.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US SYFY" tvg-logo="" group-title="VIP US",VIP: US SYFY
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9024.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US ID" tvg-logo="" group-title="VIP US",VIP: US ID
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9013.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US HIFI" tvg-logo="" group-title="VIP US",VIP: US HIFI
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9014.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US HBO ZONE" tvg-logo="" group-title="VIP US",VIP: US HBO ZONE
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9015.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US HBO SIGNATURE" tvg-logo="" group-title="VIP US",VIP: US HBO SIGNATURE
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9016.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US HBO COMEDY" tvg-logo="" group-title="VIP US",VIP: US HBO COMEDY
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9017.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US HBO" tvg-logo="" group-title="VIP US",VIP: US HBO
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9018.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US HALLMARK" tvg-logo="" group-title="VIP US",VIP: US HALLMARK
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9025.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US H2" tvg-logo="" group-title="VIP US",VIP: US H2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9019.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US E!" tvg-logo="" group-title="VIP US",VIP: US E!
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9021.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US BOOMERANG" tvg-logo="" group-title="VIP US",VIP: US BOOMERANG
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9027.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US ABC NEWS" tvg-logo="" group-title="VIP US",VIP: US ABC NEWS
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9026.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US WWE" tvg-logo="" group-title="VIP US",VIP: US WWE
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9075.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Box Office PPV" tvg-logo="" group-title="VIP UK",VIP: UK Box Office PPV
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7351.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports News HD" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports News HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7362.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports News" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports News
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7363.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports F1 HD" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports F1 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7364.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports F1" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports F1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7365.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 5 HD" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 5 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7360.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 5" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 5
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7361.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 4 HD" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 4 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7358.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 4" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 4
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7359.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 3 HD" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 3 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7356.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 3" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 3
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7357.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 2 HD" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 2 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7354.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 2" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7355.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 1 HD" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 1 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7352.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Sky Sports 1" tvg-logo="" group-title="VIP UK",VIP: UK Sky Sports 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7353.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK ESPN HD" tvg-logo="" group-title="VIP UK",VIP: UK ESPN HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7372.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK ESPN" tvg-logo="" group-title="VIP UK",VIP: UK ESPN
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7371.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK BT Sport Europe HD" tvg-logo="" group-title="VIP UK",VIP: UK BT Sport Europe HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7370.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK BT Sport 2 HD" tvg-logo="" group-title="VIP UK",VIP: UK BT Sport 2 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7369.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK BT Sport 2" tvg-logo="" group-title="VIP UK",VIP: UK BT Sport 2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7368.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK BT Sport 1 HD" tvg-logo="" group-title="VIP UK",VIP: UK BT Sport 1 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7367.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK BT Sport 1" tvg-logo="" group-title="VIP UK",VIP: UK BT Sport 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7366.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK NBC E.P.L XTRA 7 (LIVE DURING EPL)" tvg-logo="" group-title="VIP UK",VIP: UK NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8409.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK NBC E.P.L XTRA 6 (LIVE DURING EPL)" tvg-logo="" group-title="VIP UK",VIP: UK NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8408.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK NBC E.P.L XTRA 5 (LIVE DURING EPL)" tvg-logo="" group-title="VIP UK",VIP: UK NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8407.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK NBC E.P.L XTRA 4 (LIVE DURING EPL)" tvg-logo="" group-title="VIP UK",VIP: UK NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8406.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK NBC E.P.L XTRA 3 (LIVE DURING EPL)" tvg-logo="" group-title="VIP UK",VIP: UK NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8405.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK NBC E.P.L XTRA 2 (LIVE DURING EPL)" tvg-logo="" group-title="VIP UK",VIP: UK NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8404.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK NBC E.P.L XTRA 1 (LIVE DURING EPL)" tvg-logo="" group-title="VIP UK",VIP: UK NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8403.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Setanta Sport" tvg-logo="" group-title="VIP UK",VIP: UK Setanta Sport
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7384.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MUTV HD" tvg-logo="" group-title="VIP UK",VIP: UK MUTV HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7373.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Liverpool FC" tvg-logo="" group-title="VIP UK",VIP: UK Liverpool FC
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7382.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Setanta Sports Ireland" tvg-logo="" group-title="VIP UK",VIP: UK Setanta Sports Ireland
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7383.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK EuroSports 2" tvg-logo="" group-title="VIP UK",VIP: UK EuroSports 2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7386.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK EuroSports 1" tvg-logo="" group-title="VIP UK",VIP: UK EuroSports 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7387.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK Chelsea TV" tvg-logo="" group-title="VIP UK",VIP: UK Chelsea TV
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7381.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: TH CTH Stadium 6 HD" tvg-logo="" group-title="VIP",VIP: TH CTH Stadium 6 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8014.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: TH CTH Stadium X HD" tvg-logo="" group-title="VIP",VIP: TH CTH Stadium X HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8015.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: CTH Stadium 5 HD" tvg-logo="" group-title="VIP",VIP: CTH Stadium 5 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6052.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: CTH Stadium 4 HD" tvg-logo="" group-title="VIP",VIP: CTH Stadium 4 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6053.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: CTH Stadium 3 HD" tvg-logo="" group-title="VIP",VIP: CTH Stadium 3 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6054.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: CTH Stadium 2 HD" tvg-logo="" group-title="VIP",VIP: CTH Stadium 2 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6055.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: CTH Stadium 1 HD" tvg-logo="" group-title="VIP",VIP: CTH Stadium 1 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6056.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US TSN5" tvg-logo="" group-title="VIP US",VIP: US TSN5
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9036.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US TSN4" tvg-logo="" group-title="VIP US",VIP: US TSN4
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9035.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US TSN3" tvg-logo="" group-title="VIP US",VIP: US TSN3
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9034.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US TSN2" tvg-logo="" group-title="VIP US",VIP: US TSN2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9033.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US TSN1" tvg-logo="" group-title="VIP US",VIP: US TSN1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9032.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: GB ASTRO SuperSport 4" tvg-logo="" group-title="VIP",VIP: GB ASTRO SuperSport 4
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8013.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: GB ASTRO SuperSport 3" tvg-logo="" group-title="VIP",VIP: GB ASTRO SuperSport 3
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8012.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: GB ASTRO SuperSport 2" tvg-logo="" group-title="VIP",VIP: GB ASTRO SuperSport 2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8011.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: GB ASTRO SuperSport 1" tvg-logo="" group-title="VIP",VIP: GB ASTRO SuperSport 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8010.ts
+#EXTINF:-1 tvg-id="" tvg-name="ex-Yu: ArenaSport 4 SRB" tvg-logo="arenasport4.jpg" group-title="ex-Yu",ex-Yu: ArenaSport 4 SRB
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3185.ts
+#EXTINF:-1 tvg-id="" tvg-name="ex-Yu: ArenaSport 3 SRB" tvg-logo="arenasport3.jpg" group-title="ex-Yu",ex-Yu: ArenaSport 3 SRB
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3184.ts
+#EXTINF:-1 tvg-id="" tvg-name="ex-Yu: ArenaSport 2 SRB" tvg-logo="arenasport2.jpg" group-title="ex-Yu",ex-Yu: ArenaSport 2 SRB
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3183.ts
+#EXTINF:-1 tvg-id="" tvg-name="ex-Yu: ArenaSport 1 SRB" tvg-logo="arenasport1.jpg" group-title="ex-Yu",ex-Yu: ArenaSport 1 SRB
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3182.ts
+#EXTINF:-1 tvg-id="" tvg-name="ex-Yu: ArenaSport 5 SRB" tvg-logo="" group-title="ex-Yu",ex-Yu: ArenaSport 5 SRB
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3186.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US NBC SPORT" tvg-logo="" group-title="VIP US",VIP: US NBC SPORT
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9008.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US GOLF" tvg-logo="" group-title="VIP US",VIP: US GOLF
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9020.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US FOX SPORTS 2" tvg-logo="" group-title="VIP US",VIP: US FOX SPORTS 2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9030.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US FOX SPORTS 1" tvg-logo="" group-title="VIP US",VIP: US FOX SPORTS 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9031.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US ESPN 2" tvg-logo="" group-title="VIP US",VIP: US ESPN 2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9022.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: US ESPN 1" tvg-logo="" group-title="VIP US",VIP: US ESPN 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9023.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 9 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 9 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7459.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 8 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 8 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7460.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 7 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 7 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7461.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 6 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 6 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7462.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 5 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 5 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7463.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 4 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 4 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7464.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 3 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 3 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7465.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 2 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 2 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7466.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 16 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 16 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7452.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 15 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 15 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7453.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 14 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 14 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7454.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 13 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 13 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7455.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 12 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 12 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7456.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 11 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 11 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7457.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 10 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 10 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7458.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: beINSport 1 HD (UEFA CHAMPIONSHIP)" tvg-logo="" group-title="VIP beIN SPORTS",VIP: beINSport 1 HD (UEFA CHAMPIONSHIP)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7467.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Sport 1 HD" tvg-logo="" group-title="VIP",VIP: Sport 1 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7324.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: Sport 1 US HD" tvg-logo="" group-title="VIP",VIP: Sport 1 US HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/7325.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BEINSPORT13" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BEINSPORT13
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6640.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BEINSPORT12" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BEINSPORT12
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6641.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BEINSPORT11" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BEINSPORT11
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6639.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport10" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport10
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6634.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport9" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport9
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6633.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport8" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport8
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6632.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport7" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport7
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6631.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport6" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport6
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6630.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport5" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport5
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6629.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport4" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport4
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6628.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport3" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport3
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6627.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport2" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6626.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: BeinSport1" tvg-logo="" group-title="VIP beIN SPORTS",VIP: BeinSport1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/6625.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 9 HD" tvg-logo="" group-title="Arabian",AR: beINSport 9 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2455.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 8 HD" tvg-logo="" group-title="Arabian",AR: beINSport 8 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2454.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 7 HD" tvg-logo="" group-title="Arabian",AR: beINSport 7 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2453.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 6 HD" tvg-logo="" group-title="Arabian",AR: beINSport 6 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2452.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 5 HD" tvg-logo="" group-title="Arabian",AR: beINSport 5 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2451.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 4 HD" tvg-logo="" group-title="Arabian",AR: beINSport 4 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2450.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 3 HD" tvg-logo="" group-title="Arabian",AR: beINSport 3 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2449.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 2 HD" tvg-logo="" group-title="Arabian",AR: beINSport 2 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2448.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 13 HD" tvg-logo="" group-title="Arabian",AR: beINSport 13 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2459.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEINSPORT 12 HD" tvg-logo="" group-title="Arabian",AR: BEINSPORT 12 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4282.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 11 HD" tvg-logo="" group-title="Arabian",AR: beINSport 11 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2457.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 10 HD" tvg-logo="" group-title="Arabian",AR: beINSport 10 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2456.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beINSport 1 HD" tvg-logo="" group-title="Arabian",AR: beINSport 1 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2447.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beINSport HD 1" tvg-logo="" group-title="France",FR: beINSport HD 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5522.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beINSport 2 HD" tvg-logo="" group-title="France",FR: beINSport 2 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3609.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beINSport 3 HD" tvg-logo="" group-title="France",FR: beINSport 3 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4477.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN Sports MAX 4" tvg-logo="" group-title="France",FR: BEIN Sports MAX 4
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8960.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN Sports MAX 5" tvg-logo="" group-title="France",FR: BEIN Sports MAX 5
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8961.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN Sports MAX 6" tvg-logo="" group-title="France",FR: BEIN Sports MAX 6
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8962.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN Sports MAX 7" tvg-logo="" group-title="France",FR: BEIN Sports MAX 7
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8963.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP: UK MIO STADIUM 102" tvg-logo="" group-title="VIP UK",VIP: UK MIO STADIUM 102
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8402.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Classica (20-06)" tvg-logo="" group-title="For Adults",ADULT: Classica (20-06)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9555.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Beate-Uhse TV (20-06)" tvg-logo="" group-title="For Adults",ADULT: Beate-Uhse TV (20-06)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9559.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PLAYBOY (XXX)" tvg-logo="" group-title="For Adults",ADULT: PLAYBOY (XXX)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9504.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Passion XXX" tvg-logo="" group-title="For Adults",ADULT: Passion XXX
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9508.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Jasmin (XXX)" tvg-logo="" group-title="For Adults",ADULT: Jasmin (XXX)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9507.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Hustlet HD (XXX)" tvg-logo="" group-title="For Adults",ADULT: Hustlet HD (XXX)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9505.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Brazzers (XXX)" tvg-logo="" group-title="For Adults",ADULT: Brazzers (XXX)
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/9506.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: RedLight HD" tvg-logo="" group-title="For Adults",ADULT: RedLight HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8226.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Hustler HD" tvg-logo="" group-title="For Adults",ADULT: Hustler HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8225.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: T Girls Tv" tvg-logo="" group-title="For Adults",ADULT: T Girls Tv
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8223.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Sesso Senso Tv" tvg-logo="" group-title="For Adults",ADULT: Sesso Senso Tv
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8219.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Sct HD" tvg-logo="" group-title="For Adults",ADULT: Sct HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8224.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Sct" tvg-logo="" group-title="For Adults",ADULT: Sct
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8221.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Pink O TV" tvg-logo="" group-title="For Adults",ADULT: Pink O TV
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8217.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PassionXXX" tvg-logo="" group-title="For Adults",ADULT: PassionXXX
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8218.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Exotica Tv" tvg-logo="" group-title="For Adults",ADULT: Exotica Tv
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8222.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: CentoxCento Tv" tvg-logo="" group-title="For Adults",ADULT: CentoxCento Tv
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/8220.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 9 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 9 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5848.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 8 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 8 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5849.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 7 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 7 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5850.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 6 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 6 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5851.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 5 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 5 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5852.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 4 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 4 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5853.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 3 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 3 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5854.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 2 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 2 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5855.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 10 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 10 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5856.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: HOT CLUB 1 HD" tvg-logo="" group-title="For Adults",ADULT: HOT CLUB 1 HD
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5857.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: PlayBoy" tvg-logo="" group-title="For Adults",ADULT: PlayBoy
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5557.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Venus" tvg-logo="" group-title="For Adults",ADULT: Venus
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3261.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Hot" tvg-logo="" group-title="For Adults",ADULT: Hot
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/3260.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Jasmin TV" tvg-logo="" group-title="For Adults",ADULT: Jasmin TV
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/4289.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Pink Erotik 4" tvg-logo="" group-title="For Adults",ADULT: Pink Erotik 4
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/2051.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Pink Erotik 3" tvg-logo="" group-title="For Adults",ADULT: Pink Erotik 3
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5606.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Pink Erotik 2" tvg-logo="" group-title="For Adults",ADULT: Pink Erotik 2
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5605.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULT: Pink Erotik 1" tvg-logo="" group-title="For Adults",ADULT: Pink Erotik 1
+http://portal.rapidiptv.com:8080/live/NWMn8tUZMM/202rl7AcAr/5604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E10" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E10
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E09" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E09
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E08" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E08
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E07" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E07
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E06" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E06
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E05" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E05
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E04" tvg-logo="" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E04
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E03" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E03
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E02" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E02
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E01" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E01
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Thrones S05E00" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="GAME OF THRONES (SEASON 5)",Game of Thrones S05E00
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Katy Perry The Prismatic World Tour [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3501428.jpg" group-title="CONCERT",Katy Perry The Prismatic World Tour [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adele Live in New York City [2015]" tvg-logo="" group-title="CONCERT",Adele Live in New York City [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E24" tvg-logo="" group-title="24 (SEASON 8)",24 S08E24
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E23" tvg-logo="" group-title="24 (SEASON 8)",24 S08E23
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E22" tvg-logo="" group-title="24 (SEASON 8)",24 S08E22
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E21" tvg-logo="" group-title="24 (SEASON 8)",24 S08E21
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E20" tvg-logo="" group-title="24 (SEASON 8)",24 S08E20
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E19" tvg-logo="" group-title="24 (SEASON 8)",24 S08E19
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E18" tvg-logo="" group-title="24 (SEASON 8)",24 S08E18
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E17" tvg-logo="" group-title="24 (SEASON 8)",24 S08E17
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E16" tvg-logo="" group-title="24 (SEASON 8)",24 S08E16
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E15" tvg-logo="" group-title="24 (SEASON 8)",24 S08E15
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E14" tvg-logo="" group-title="24 (SEASON 8)",24 S08E14
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E13" tvg-logo="" group-title="24 (SEASON 8)",24 S08E13
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E12" tvg-logo="" group-title="24 (SEASON 8)",24 S08E12
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E11" tvg-logo="" group-title="24 (SEASON 8)",24 S08E11
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E10" tvg-logo="" group-title="24 (SEASON 8)",24 S08E10
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E09" tvg-logo="" group-title="24 (SEASON 8)",24 S08E09
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E08" tvg-logo="" group-title="24 (SEASON 8)",24 S08E08
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E07" tvg-logo="" group-title="24 (SEASON 8)",24 S08E07
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E06" tvg-logo="" group-title="24 (SEASON 8)",24 S08E06
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E05" tvg-logo="" group-title="24 (SEASON 8)",24 S08E05
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E04" tvg-logo="" group-title="24 (SEASON 8)",24 S08E04
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E03" tvg-logo="" group-title="24 (SEASON 8)",24 S08E03
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E02" tvg-logo="" group-title="24 (SEASON 8)",24 S08E02
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S08E01" tvg-logo="" group-title="24 (SEASON 8)",24 S08E01
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E12" tvg-logo="" group-title="24 (SEASON 9)",24 S09E12
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E11" tvg-logo="" group-title="24 (SEASON 9)",24 S09E11
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E10" tvg-logo="" group-title="24 (SEASON 9)",24 S09E10
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E09" tvg-logo="" group-title="24 (SEASON 9)",24 S09E09
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E08" tvg-logo="" group-title="24 (SEASON 9)",24 S09E08
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E07" tvg-logo="" group-title="24 (SEASON 9)",24 S09E07
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E06" tvg-logo="" group-title="24 (SEASON 9)",24 S09E06
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E05" tvg-logo="" group-title="24 (SEASON 9)",24 S09E05
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E04" tvg-logo="" group-title="24 (SEASON 9)",24 S09E04
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E03" tvg-logo="" group-title="24 (SEASON 9)",24 S09E03
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E02" tvg-logo="" group-title="24 (SEASON 9)",24 S09E02
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="24 S09E01" tvg-logo="" group-title="24 (SEASON 9)",24 S09E01
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The 88th Annual Academy Awards 2016" tvg-logo="http://portal.rapidiptv.com:8080/images/1103965.jpg" group-title="ENGLISH",The 88th Annual Academy Awards 2016
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WWE RAW 2016.02.29" tvg-logo="" group-title="ENGLISH",WWE RAW 2016.02.29
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WWE Superstars 2016.02.26  HDTV" tvg-logo="" group-title="ENGLISH",WWE Superstars 2016.02.26  HDTV
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WWE Smackdown 2016.02.25 HDTV" tvg-logo="" group-title="ENGLISH",WWE Smackdown 2016.02.25 HDTV
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WWE NXT Takeover Respect 26.2.2016" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",WWE NXT Takeover Respect 26.2.2016
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diablo [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",Diablo [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WEAPONiZED [2016]" tvg-logo="http://portal.rapidiptv.com:8080/images/4776564.jpg" group-title="ENGLISH",WEAPONiZED [2016]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Standoff [2016]" tvg-logo="http://portal.rapidiptv.com:8080/images/3703908.jpg" group-title="ENGLISH",Standoff [2016]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Open Season Scared Silly [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/4938374.jpg" group-title="ENGLISH",Open Season Scared Silly [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krampus [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",Krampus [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alienate [2016]" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",Alienate [2016]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victor Frankenstein [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1976009.jpg" group-title="ENGLISH",Victor Frankenstein [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Channel [2016]" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",The Channel [2016]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan 9 [2016]" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",Plan 9 [2016]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 3 [2016]" tvg-logo="http://portal.rapidiptv.com:8080/images/2267968.jpg" group-title="ENGLISH",Kung Fu Panda 3 [2016]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Believe In Miracles [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/5098836.jpg" group-title="ENGLISH",I Believe In Miracles [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conspiracy Encounters [2016]" tvg-logo="http://portal.rapidiptv.com:8080/images/5106298.jpg" group-title="ENGLISH",Conspiracy Encounters [2016]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1895587.jpg" group-title="ENGLISH",Spotlight [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimson Peak [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2554274.jpg" group-title="ENGLISH",Crimson Peak [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wannabe    [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3059816.jpg" group-title="ENGLISH",The Wannabe    [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Program   [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3083008.jpg" group-title="ENGLISH",The Program   [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Witch Hunter [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1618442.jpg" group-title="ENGLISH",The Last Witch Hunter [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spectre    [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2379713.jpg" group-title="GERMAN",Spectre    [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One and Two  [2015]" tvg-logo="" group-title="ENGLISH",One and Two  [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moonwalkers [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2718440.jpg" group-title="ENGLISH",Moonwalkers [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Macbeth    [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2884018.jpg" group-title="ENGLISH",Macbeth    [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Legend     [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3569230.jpg" group-title="ENGLISH",Legend     [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freeheld   [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1658801.jpg" group-title="ENGLISH",Freeheld   [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bridge of Spies   [2015]" tvg-logo="" group-title="ENGLISH",Bridge of Spies   [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Mass [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1355683.jpg" group-title="ENGLISH",Black Mass [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Perfect Day [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3577624.jpg" group-title="ENGLISH",A Perfect Day [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/9209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Peanuts Movie [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2452042.jpg" group-title="ENGLISH",The Peanuts Movie [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Diary of a Teenage Girl [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3172532.jpg" group-title="ENGLISH",The Diary of a Teenage Girl [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sicario [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3397884.jpg" group-title="ENGLISH",Sicario [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anomalisa [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2401878.jpg" group-title="ENGLISH",Anomalisa [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Martian [2015]" tvg-logo="" group-title="ENGLISH",The Martian [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Intern [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2361509.jpg" group-title="ENGLISH",The Intern [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sleeping with Other People [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3165612.jpg" group-title="ENGLISH",Sleeping with Other People [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queen of Earth [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3993894.jpg" group-title="ENGLISH",Queen of Earth [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irrational Man [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3715320.jpg" group-title="ENGLISH",Irrational Man [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transylvania 2 [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2510894.jpg" group-title="ENGLISH",Hotel Transylvania 2 [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Stanford Prison Experiment [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/0420293.jpg" group-title="ENGLISH",The Stanford Prison Experiment [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man [2015]" tvg-logo="" group-title="ENGLISH",Ant-Man [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The 33 [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2006295.jpg" group-title="ENGLISH",The 33 [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted 2 [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2637276.jpg" group-title="ENGLISH",Ted 2 [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitman Agent 47 [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2679042.jpg" group-title="ENGLISH",Hitman Agent 47 [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dark Places [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2402101.jpg" group-title="ENGLISH",Dark Places [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/8069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inside Out [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2096673.jpg" group-title="ENGLISH",Inside Out [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/7865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Max [2015]" tvg-logo="http://i.movie.as/p/209169.jpg" group-title="ENGLISH",Max [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/7350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freetown [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3735554.jpg" group-title="ENGLISH",Freetown [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/7348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible - Rogue Nation [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2381249.jpg" group-title="ENGLISH",Mission Impossible - Rogue Nation [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/7078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terminator Genisys [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1340138.jpg" group-title="ENGLISH",Terminator Genisys [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entourage [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1674771.jpg" group-title="ENGLISH",Entourage [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vendetta [2015]" tvg-logo="" group-title="ENGLISH",Vendetta [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tomorrowland [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1964418.jpg" group-title="ENGLISH",Tomorrowland [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Runner [2015]" tvg-logo="" group-title="ENGLISH",The Runner [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike XXL [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2268016.jpg" group-title="ENGLISH",Magic Mike XXL [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/0369610.jpg" group-title="ENGLISH",Jurassic World [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insidious Chapter 3 [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3195644.jpg" group-title="ENGLISH",Insidious Chapter 3 [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extinction [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1502675.jpg" group-title="ENGLISH",Extinction [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aloha [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1243974.jpg" group-title="ENGLISH",Aloha [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Woman in Gold [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2404425.jpg" group-title="ENGLISH",Woman in Gold [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tracers [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",Tracers [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tale of Tales [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3278330.jpg" group-title="ENGLISH",Tale of Tales [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortdecai [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3045616.jpg" group-title="ENGLISH",Mortdecai [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Self Less [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2140379.jpg" group-title="ENGLISH",Self Less [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades of Grey [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2322441.jpg" group-title="ENGLISH",Fifty Shades of Grey [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Child 44 [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1014763.jpg" group-title="ENGLISH",Child 44 [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Age of Ultron [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2395427.jpg" group-title="ENGLISH",Avengers Age of Ultron [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="San Andreas [2015]" tvg-logo="" group-title="ENGLISH",San Andreas [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tanu Weds Manu Returns [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2140465.jpg" group-title="ENGLISH",Tanu Weds Manu Returns [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Piku [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3767372.jpg" group-title="ENGLISH",Piku [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gabbar is Back [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2424988.jpg" group-title="ENGLISH",Gabbar is Back [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detective Byomkesh Bakshy [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3447364.jpg" group-title="ENGLISH",Detective Byomkesh Bakshy [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bombay Velvet [2015]" tvg-logo="" group-title="ENGLISH",Bombay Velvet [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajrangi Bhaijaan [2015]" tvg-logo="" group-title="ENGLISH",Bajrangi Bhaijaan [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="With This Ring [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3908634.jpg" group-title="ENGLISH",With This Ring [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="True Story [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",True Story [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Wedding Ringer [2015]" tvg-logo="" group-title="ENGLISH",The Wedding Ringer [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The SpongeBob Movie Sponge Out of Water [2015]" tvg-logo="" group-title="ENGLISH",The SpongeBob Movie Sponge Out of Water [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Second Best Exotic Marigold Hotel [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2555736.jpg" group-title="ENGLISH",The Second Best Exotic Marigold Hotel [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Longest Ride [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2726560.jpg" group-title="ENGLISH",The Longest Ride [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The DUFF [2015]" tvg-logo="" group-title="ENGLISH",The DUFF [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Age of Adaline [2015]" tvg-logo="" group-title="ENGLISH",The Age of Adaline [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Survivor [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/not-found.jpg" group-title="ENGLISH",Survivor [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Strangerland [2015]" tvg-logo="" group-title="ENGLISH",Strangerland [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slow West [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3205376.jpg" group-title="ENGLISH",Slow West [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaun the Sheep Movie [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2872750.jpg" group-title="ENGLISH",Shaun the Sheep Movie [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Run All Night [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2199571.jpg" group-title="ENGLISH",Run All Night [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pound of Flesh [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3488328.jpg" group-title="ENGLISH",Pound of Flesh [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paul Blart Mall Cop 2 [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/3450650.jpg" group-title="ENGLISH",Paul Blart Mall Cop 2 [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maggie [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1881002.jpg" group-title="ENGLISH",Maggie [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mad Max Fury Road [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1392190.jpg" group-title="ENGLISH",Mad Max Fury Road [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Last Knights [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2493486.jpg" group-title="ENGLISH",Last Knights [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insurgent [2015]" tvg-logo="" group-title="ENGLISH",Insurgent [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2224026.jpg" group-title="ENGLISH",Home [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get Hard [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2561572.jpg" group-title="ENGLISH",Get Hard [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Focus [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2381941.jpg" group-title="ENGLISH",Focus [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fast and Furious 7 [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/2820852.jpg" group-title="ENGLISH",Fast and Furious 7 [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ex Machina [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/0470752.jpg" group-title="ENGLISH",Ex Machina [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Danny Collins [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1772288.jpg" group-title="ENGLISH",Danny Collins [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cinderella  [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1661199.jpg" group-title="ENGLISH",Cinderella  [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chappie [2015]" tvg-logo="http://portal.rapidiptv.com:8080/images/1823672.jpg" group-title="ENGLISH",Chappie [2015]
+http://portal.rapidiptv.com:8080/movie/NWMn8tUZMM/202rl7AcAr/6532.mkv
